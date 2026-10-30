@@ -1,0 +1,25 @@
+          Estates such as Manohari regularly set record prices at the Guwahati Tea Auction Centre (GTAC) for specialty batches such as <strong>Manohari Gold</strong> and hand-plucked golden tip orthodox lines.
+
+var TOP_10_ESTATES = [
+
+    name: "Manohari Tea Estate",
+
+    owner: "Manohari Tea Co. Pvt Ltd",
+
+    specialty: "Artisan Golden Tips • Manohari Gold Record Highs",
+
+    accolade: "GTAC World Auction Record (Manohari Gold sold for ₹99,999 – ₹1,15,000/kg)",
+
+    caption: "Artisan sorting of world-famous Manohari Gold and tender hand-plucked golden tip orthodox lines in Nogaghuli, Lahoal.",
+
+    desc: "Manohari Tea Estate in Lahoal is an international sensation celebrated for producing 'Manohari Gold'—a rare specialty tea made exclusively from tender golden apical buds plucked before dawn. Regularly setting world auction records at the Guwahati Tea Auction Centre (GTAC), Manohari also operates an advanced integrated factory producing ~1,000,000 kg of brisk CTC and delicate orthodox whole-leaf teas."
+
+TOP_10_ESTATES.forEach(function(e, idx){
+
+  TOP_10_ESTATES.forEach(function(e, i){
+
+  TOP_10_ESTATES.forEach(function(e, i){
+
+  var e = TOP_10_ESTATES[index];
+
+  TOP_10_ESTATES.forEach(function(e, i){

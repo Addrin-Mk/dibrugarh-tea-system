@@ -1,0 +1,12 @@
+{
+  "name": "dibrugarh-tea-system",
+  "version": "4.0.0",
+  "private": true,
+  "description": "Dibrugarh Tea Information & Power BI Analytics System - Full-Stack Node.js & React.js",
+  "scripts": {
+    "server": "node server/server.js",
+    "client": "npm.cmd --prefix client run dev",
+    "build": "npm.cmd --prefix client run build",
+    "start": "node server/server.js"
+  }
+}

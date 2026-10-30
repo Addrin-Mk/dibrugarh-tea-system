@@ -1,0 +1,92 @@
+{
+  "pbi-dashboard": {
+    "title": "Executive Power BI Analytics Dashboard",
+    "tag": "🍃 2026 Season Horizon • Live BI District Engine",
+    "desc": "District-wide harvest targets, green leaf intake, outturn efficiency, and multi-tier auction price discovery models across Dibrugarh's corporate and smallholder sectors.",
+    "secH2": "Dibrugarh District Harvest & Trade Analytics (2026 Operational Horizon)",
+    "secLead": "Interactive Power BI dashboard synthesizing green leaf intake, factory made-tea conversion ratios, auction price realizations, and operational agricultural units across Dibrugarh district.",
+    "hl1": "235.0 M kg Green Leaf Target",
+    "hl2": "₹232.50/kg Benchmark Realization",
+    "hl3": "29,948 Operating Units"
+  },
+  "map-section": {
+    "title": "Satellite GIS Terrain & Heritage Estates",
+    "tag": "🛰️ High-Resolution Orthophoto Basemap",
+    "desc": "True-color satellite survey mapping tea plantations, Brahmaputra alluvial corridors, revenue circles, and 10 landmark heritage estates with verified coordinates.",
+    "secH2": "Heritage Estate Coordinates Map of Dibrugarh, Assam",
+    "secLead": "Interactive geographic map of Dibrugarh district showing the Brahmaputra River course and spatial distribution of landmark corporate tea estates across its 5 revenue circles.",
+    "hl1": "10 Landmark Heritage Estates",
+    "hl2": "5 Revenue Circles Mapped",
+    "hl3": "True-Color Landsat Imagery"
+  },
+  "estates-177": {
+    "title": "177 Corporate Tea Estates Census",
+    "tag": "🏛️ Official Industrial Registry",
+    "desc": "Comprehensive macro census of Dibrugarh's 177 corporate tea estates, covering 58,168 ha geographical grant, 37,254 ha under cultivation, and 121,671 workers.",
+    "secH2": "Census of 177 Corporate Estates (2026 Horizon)",
+    "secLead": "Exhaustive field audit across all 177 organized plantation companies in Dibrugarh. Visualizing land grant utilization, factory workforce distribution, and annual wage bill economics.",
+    "hl1": "37,254 ha Actively Cultivated",
+    "hl2": "18,995 Factory Specialists",
+    "hl3": "₹790.03 Cr Annual Wage Outlay"
+  },
+  "stg-analytics": {
+    "title": "Small Tea Growers (STG) Ecosystem",
+    "tag": "🍃 29,771 Registered Smallholders",
+    "desc": "Official Tea Board of India verified small tea growers directory for Borboruah block, tracking 22,283 hectares of smallholder plantations and multi-year harvest yields.",
+    "secH2": "Small Tea Growers Landscape (Borboruah Block & District-Wide)",
+    "secLead": "Granular verification of smallholder tea cultivation. Analyzing field survey records from Borboruah Block alongside district-level growth trajectories and Bought-Leaf Factory price linkages.",
+    "hl1": "29,771 Registered Growers",
+    "hl2": "22,283 ha Cultivated Footprint",
+    "hl3": "₹32.50/kg Green Leaf Benchmark"
+  },
+  "scrolly-journey": {
+    "title": "The Tea Journey — Agronomy & Processing",
+    "tag": "🌱 From Soil to Cup",
+    "desc": "Step-by-step visual exploration of Upper Assam tea cultivation: nursery propagation, fine two-leaves-and-a-bud plucking, withering lofts, orthodox rolling, and CTC fermentation.",
+    "secH2": "The Agronomic & Manufacturing Journey of Dibrugarh Tea",
+    "secLead": "Follow the transformation of Camellia sinensis var. assamica across 7 master stages from deep alluvial nursery soil to international tasting cups.",
+    "hl1": "7 Processing Stages",
+    "hl2": "Fine Two-Leaves Plucking",
+    "hl3": "Dual CTC & Orthodox Lines"
+  },
+  "auctions": {
+    "title": "Commercial Auctions & GTAC Realization",
+    "tag": "⚖️ Price Discovery Engine",
+    "desc": "Real-time trading analytics, price spreads between Orthodox and CTC grades, and multi-year auction volume trends at the Guwahati Tea Auction Centre (GTAC).",
+    "secH2": "Guwahati Tea Auction Centre (GTAC) Price Discovery",
+    "secLead": "Auction analytics documenting weekly price trends, grade differentials between Orthodox golden tips and CTC dust, and institutional buyer bidding dynamics.",
+    "hl1": "₹298.50 Orthodox Average",
+    "hl2": "₹218.40 CTC Benchmark",
+    "hl3": "Primary Domestic Gateway"
+  },
+  "exports": {
+    "title": "Global Tea Exports & Trade Geography",
+    "tag": "🌐 International Shipments",
+    "desc": "Destination country breakdown, port throughput (Kolkata, Haldia, JNPT), and FOB export realizations across major global buyers including Iraq, UAE, Russia, and Germany.",
+    "secH2": "International Tea Trade Pathways & Realization",
+    "secLead": "Tracking Dibrugarh's export volume across major continental markets with FOB price realizations, ocean freight lanes, and port clearances.",
+    "hl1": "Top Buyer: Iraq & CIS",
+    "hl2": "Kolkata & Haldia Gateways",
+    "hl3": "Premium Whole-Leaf Realizations"
+  },
+  "domestic": {
+    "title": "Interstate Trade & Seasonal Harvest Rhythm",
+    "tag": "🚚 Pan-India Distribution",
+    "desc": "Interstate tea dispatches across top consuming states (Maharashtra, UP, Gujarat), seasonal 4-flush volume distribution, and bought-leaf factory pricing.",
+    "secH2": "Pan-India Interstate Movement & Flush Harvest Rhythm",
+    "secLead": "Mapping domestic consumption hubs and the dramatic production surges between first, second, monsoon, and autumnal harvest flushes.",
+    "hl1": "Top Destination: Maharashtra & UP",
+    "hl2": "Second Flush Peak Quality",
+    "hl3": "Winter Vegetative Dormancy"
+  },
+  "records": {
+    "title": "Historical Production Time-Series Registry",
+    "tag": "📋 Official Statistical Baseline",
+    "desc": "Multi-year production registry from 2022 to the 2026 Horizon, documenting area under cultivation, green leaf volume, made tea output, and yield per hectare.",
+    "secH2": "Dibrugarh Historical Production Registry & CRUD",
+    "secLead": "Historical statistical time-series documenting the progression of Dibrugarh's tea economy across key agricultural and economic indicators.",
+    "hl1": "2022–2026 Time-Series",
+    "hl2": "0.318 Outturn Conversion",
+    "hl3": "Browser Local Persistence"
+  }
+}
